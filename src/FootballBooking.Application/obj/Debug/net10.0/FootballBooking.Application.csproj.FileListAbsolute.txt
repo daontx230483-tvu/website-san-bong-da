@@ -1,0 +1,16 @@
+E:\Projects\FootballBooking\src\FootballBooking.Application\bin\Debug\net10.0\FootballBooking.Application.deps.json
+E:\Projects\FootballBooking\src\FootballBooking.Application\bin\Debug\net10.0\FootballBooking.Application.dll
+E:\Projects\FootballBooking\src\FootballBooking.Application\bin\Debug\net10.0\FootballBooking.Application.pdb
+E:\Projects\FootballBooking\src\FootballBooking.Application\bin\Debug\net10.0\FootballBooking.Domain.dll
+E:\Projects\FootballBooking\src\FootballBooking.Application\bin\Debug\net10.0\FootballBooking.Domain.pdb
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\FootballBooking.Application.csproj.AssemblyReference.cache
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\FootballBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\FootballBooking.Application.AssemblyInfoInputs.cache
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\FootballBooking.Application.AssemblyInfo.cs
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\FootballBooking.Application.csproj.CoreCompileInputs.cache
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\Football.F2862F46.Up2Date
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\FootballBooking.Application.dll
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\refint\FootballBooking.Application.dll
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\FootballBooking.Application.pdb
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\ref\FootballBooking.Application.dll
+E:\Projects\FootballBooking\src\FootballBooking.Application\obj\Debug\net10.0\FootballBooking.Application.sourcelink.json

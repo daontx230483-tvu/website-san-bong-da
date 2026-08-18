@@ -1,0 +1,6 @@
+{
+  "FootballBooking.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\FootballBooking\\src\\FootballBooking.Application",
+  "FootballBooking.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\FootballBooking\\src\\FootballBooking.Domain",
+  "FootballBooking.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\FootballBooking\\src\\FootballBooking.Infrastructure",
+  "FootballBooking.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Projects\\FootballBooking\\src\\FootballBooking.Web"
+}
